@@ -13,6 +13,7 @@ li {
     float: left;
     font-size: 36px;
     padding: 20px 40px;
+    text-align: center;
 }
 
 .header-list {
