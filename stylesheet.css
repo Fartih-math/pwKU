@@ -6,11 +6,6 @@ li {
     list-style: none;
 }
 
-h1 {
-    color: #d6d09c;
-    text-align: center;
-}
-
 .header {
     background-color: lightgreen;
     color: #fff;
@@ -26,3 +21,7 @@ h1 {
     padding: 33px 20px;
 }
 
+h1 {
+    color: #d6d09c;
+    text-align: center;
+}
