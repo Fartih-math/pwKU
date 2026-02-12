@@ -6,8 +6,13 @@ li {
     list-style: none;
 }
 
+h1 {
+    color: #d6d09c;
+    text-align: center;
+}
+
 .header {
-    background-color: #d6d09c;
+    background-color: lightgreen;
     color: #fff;
     height: 90px;
     float: left;
@@ -20,3 +25,4 @@ li {
     float: left;
     padding: 33px 20px;
 }
+
