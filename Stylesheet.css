@@ -1,11 +1,12 @@
 h1 {
-    color: lightgreen;
+    color: green;
     font-family:Cambria;
     text-align: center;
 }
 
 .Selected {
-    color: lightgreen;
+    color: green;
     font-family:Cambria;
     text-align: center;
+
 }
